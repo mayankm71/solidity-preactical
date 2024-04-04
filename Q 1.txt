@@ -1,0 +1,4 @@
+we can use solidity because :
+1.it is used for smart contracts
+2.we can use a remix online compiler to sownload a coommand line compiler on your pc to write smart contracts
+3. it updates such as a new features and bug fixes.
